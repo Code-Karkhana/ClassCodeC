@@ -1,2 +1,2 @@
 # ClassCodeC
-C++ code form class practice.
+C and C++ code form class practice.
