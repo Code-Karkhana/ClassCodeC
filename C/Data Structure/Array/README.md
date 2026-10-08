@@ -1,4 +1,4 @@
-# 📦 C Arrays — 
+# 📦 C Arrays
 
 An **array** is simply:
 
