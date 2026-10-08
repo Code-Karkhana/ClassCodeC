@@ -7,6 +7,8 @@
 ### C / Data Structure
 
 - 📦 [Array](./C/Data%20Structure/Array/) — Arrays, indexing, memory, and loops
+  - [Stack Array](./C/Data%20Structure/Array/Stack_Arryay.md) - Explained Stacking array with example code
+- ©️ [Char](./C/Data%20Structure/) - Explained Char in C
 - ➕ [Signed Integer](./C/Data%20Structure/Signed_integer/) — Signed integers, ranges, and two's complement
 - 🔢 [Unsigned Integer](./C/Data%20Structure/Unsigned_integer/) — Unsigned integers, ranges, and overflow
 - 📏 [Long Integer](./C/Data%20Structure/Unsigned_integer/long.md) — `long`, `long long`, and platform differences
@@ -19,7 +21,11 @@ ClassCodeC/
 ├── C/
 │   └── Data Structure/
 │       ├── Array/
-│       │   └── README.md
+│       │   ├── README.md
+|       |   ├── Stack_Array.md
+|       |   └── stack_array.c
+|       ├── Char/
+|       |   └── README.md
 │       ├── Signed_integer/
 │       │   ├── README.md
 │       │   └── signed_integer.c
